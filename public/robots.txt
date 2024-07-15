@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://calculac0re.github.io/sitemap.xml
