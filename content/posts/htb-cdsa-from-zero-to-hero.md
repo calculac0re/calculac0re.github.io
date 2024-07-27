@@ -93,7 +93,7 @@ The exam is a vastly different experience from Sherlocks, and most of what you w
 
 This is entirely up to you, and it will depend on how comfortable you are with the course content. I didn't have the luxury of doing so, but I was still able to complete the exam. As it is 7 days long, you may find it beneficial to do so.
 
-> How does CDSA stack up with other similar certifications or courses? (BTL1, CCD, etc.)
+> How does CDSA stack up with other similar hands-on certifications or courses? (BTL1, CCD, etc.)
 
 I have no knowledge of the content of these certifications or courses, so I cannot give an accurate answer.
 
