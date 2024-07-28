@@ -7,7 +7,7 @@ TocOpen: false
 hidemeta: false
 comments: false
 description: A comprehensive breakdown of Hack The Box's blue team certification
-canonicalURL: https://calculac0re.github.io/posts/htb-cdsa-from-zero-to-hero/
+canonicalURL: "https://calculac0re.net/posts/htb-cdsa-from-zero-to-hero/"
 disableHLJS: false
 disableShare: true
 hideSummary: false

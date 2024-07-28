@@ -1,6 +1,6 @@
-baseURL: "https://calculac0re.github.io/"
+baseURL: "https://calculac0re.net/"
 languageCode: en-us
-title: calculac0re.github.io
+title: calculac0re.net
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -14,8 +14,8 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: calculac0re.github.io
-  description: "Blog"
+  title: calculac0re.net
+  description: "calculac0re's blog"
   keywords: [Blog, Portfolio, PaperMod]
   # author: Me
   # author: ["Me", "You"] # multiple authors

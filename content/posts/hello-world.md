@@ -13,7 +13,7 @@ draft: false
 hidemeta: false
 comments: false
 description: "New blog"
-canonicalURL: "https://calculac0re.github.io/posts/hello-world/"
+canonicalURL: "https://calculac0re.net/posts/hello-world/"
 disableHLJS: true # to disable highlightjs
 disableShare: true
 disableHLJS: false
