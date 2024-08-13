@@ -83,7 +83,7 @@ For the exam:
 
 > How should I prepare for the exam?
 
-The course is all you need to pass the exam. I was able to pass without doing any preparation at all since the course acts as preparation.
+The course is all you need to pass the exam. I was able to pass without doing any preparation at all since the course acts as preparation. The only preparation you really need is understanding how you should write your report, which you can get an idea of by looking at some of the reports on [The DFIR Report](https://thedfirreport.com/).
 
 > How do Sherlocks compare to the exam?
 
